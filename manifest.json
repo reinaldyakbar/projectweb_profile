@@ -1,0 +1,23 @@
+{
+  "name": "TATIS1",
+  "short_name": "tatis1",
+  "start_url": "/project_sidang/", 
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3257dc",
+  "icons": [
+ {
+      "src": "/project_sidang/assets/img/logo.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "project_sidang/assets/front-end/assets/images/lgo.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "permissions": [
+    "notifications"
+  ]
+}
